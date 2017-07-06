@@ -1,0 +1,2 @@
+78.209.40.170 - - [06/Jul/2017:12:51:56 +0200] "GET / HTTP/1.1" 500 716 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:54.0) Gecko/20100101 Firefox/54.0"
+78.209.40.170 - - [06/Jul/2017:12:57:14 +0200] "GET / HTTP/1.1" 200 2122 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:54.0) Gecko/20100101 Firefox/54.0"
